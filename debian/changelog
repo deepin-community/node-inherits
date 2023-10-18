@@ -1,3 +1,17 @@
+node-inherits (2.0.4-6) unstable; urgency=medium
+
+  * Team upload
+  * Fix test for tap >= 15 (--no-cov) (Closes: #1009533)
+
+ -- Yadd <yadd@debian.org>  Thu, 21 Apr 2022 09:44:10 +0200
+
+node-inherits (2.0.4-5) unstable; urgency=medium
+
+  * Team upload
+  * Fix autopkgtest for tap >= 15
+
+ -- Yadd <yadd@debian.org>  Wed, 09 Mar 2022 11:25:20 +0100
+
 node-inherits (2.0.4-4) unstable; urgency=medium
 
   * Team upload
